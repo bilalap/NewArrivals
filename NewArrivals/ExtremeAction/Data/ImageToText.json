@@ -10,7 +10,7 @@
     },
     {
       "key": 2,
-      "thumbnail": "DocScannerPDF.png",
+      "thumbnail": "Images/DocScannerPDF.png",
       "pkg_name": "com.ea.doc.scanner",
       "app_title": "Doc Scanner PDF"
     },
