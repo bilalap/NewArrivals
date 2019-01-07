@@ -1,0 +1,24 @@
+{
+  "message": "success",
+  "status": "200",
+  "data": [
+    {
+      "key": 1,
+      "thumbnail": "15OVbcHwjUz5R9-q31ZIh1eiTfUZI8SrC",
+      "pkg_name": "com.ea.aladin.answers",
+      "app_title": "Aladin Answers"
+    },
+    {
+      "key": 2,
+      "thumbnail": "1b5PrjibKTudcva-f-kpInCDPwN0Y771o",
+      "pkg_name": "com.ea.doc.scanner",
+      "app_title": "Doc Scanner PDF"
+    },
+    {
+      "key": 3,
+      "thumbnail": "1EeH5hflG7Q256GZ86qm4DYLsGnrXXkkk",
+      "pkg_name": "com.ea.filemanager",
+      "app_title": "File Manager Lite"
+    }
+  ]
+}
