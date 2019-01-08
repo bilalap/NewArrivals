@@ -4,19 +4,19 @@
   "data": [
     {
       "key": 1,
-      "thumbnail": "Images/AladinAnswers.png",
+      "thumbnail": "Images/AladinAnswers.jpg",
       "pkg_name": "com.ea.aladin.answers",
       "app_title": "Aladin Answers"
     },
     {
       "key": 2,
-      "thumbnail": "Images/DocScannerPDF.png",
+      "thumbnail": "Images/DocScannerPDF.jpg",
       "pkg_name": "com.ea.doc.scanner",
       "app_title": "Doc Scanner PDF"
     },
     {
       "key": 3,
-      "thumbnail": "Images/FileManagerLite.png",
+      "thumbnail": "Images/FileManagerLite.jpg",
       "pkg_name": "com.ea.filemanager",
       "app_title": "File Manager Lite"
     }
