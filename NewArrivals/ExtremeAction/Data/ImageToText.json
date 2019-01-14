@@ -19,6 +19,12 @@
       "thumbnail": "Images/FileManagerLite.jpg",
       "pkg_name": "com.ea.filemanager",
       "app_title": "File Manager Lite"
+    },
+    {
+      "key": 4,
+      "thumbnail": "Images/FileExplorerPro.jpg",
+      "pkg_name": "com.eact.fileexplorer",
+      "app_title": "File Explorer Pro"
     }
   ]
 }
