@@ -3,12 +3,6 @@
   "status": "200",
   "data": [
     {
-      "key": 4,
-      "thumbnail": "Images/WhatsAppStatusCreator.jpg",
-      "pkg_name": "com.ea.whatsapp.status",
-      "app_title": "WhatsApp Status Creator"
-    },
-    {
       "key": 3,
       "thumbnail": "Images/FileManagerLite.jpg",
       "pkg_name": "com.ea.filemanager",
